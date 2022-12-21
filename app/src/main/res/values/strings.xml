@@ -2,4 +2,10 @@
     <string name="app_name">FinalProject</string>
     <string name="home">Home</string>
     <string name="menu">menu</string>
+    <string name="helpbutton">HelpButton</string>
+    <string name="favouritesbutton">FavouritesButton</string>
+    <string name="homebutton">HomeButton</string>
+    <string name="rowtext">rowText</string>
+    <string name="dialog_message">Search for an image using the search feature in the top right, click on an image to open its details. You can favourite an image to save it for later.</string>
+    <string name="dialog_title">Help</string>
 </resources>

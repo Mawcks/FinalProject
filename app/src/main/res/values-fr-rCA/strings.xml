@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetFinal</string>
+    <string name="home">Domicile</string>
+    <string name="menu">Menu</string>
+    <string name="helpbutton">BoutonD\\'aide</string>
+    <string name="favouritesbutton">BoutonFavoris</string>
+    <string name="homebutton">ButonDomicile</string>
+    <string name="rowtext">textePourRow</string>
+    <string name="dialog_message">Recherchez une image à laide de la fonction de recherche en haut à droite, cliquez sur une image pour ouvrir ses détails. Vous pouvez ajouter une image à vos favoris pour la sauvegarder pour plus tard.</string>
+    <string name="dialog_title">Aide</string>
+</resources>
