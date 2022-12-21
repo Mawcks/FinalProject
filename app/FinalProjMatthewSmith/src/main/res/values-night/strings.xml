@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message">Search for an image using the search feature in the top right, click on an image to open its details. You can favourite an image to save it for later.</string>
+    <string name="dialog_title">Help</string>
+</resources>
